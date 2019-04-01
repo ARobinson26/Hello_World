@@ -68,9 +68,8 @@ namespace Hello_World
                 
             }
             Console.ReadLine();
-
-            Random rand = new Random();
-            rand.N
+            
+          
         }
     }
 }
