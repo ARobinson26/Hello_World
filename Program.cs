@@ -20,24 +20,7 @@ namespace Hello_World
 
         static void Main(string[] args)
         {
-            //Console.Title = "My First App!";
-
-            //Console.WriteLine("Enter Your Age:");
-            //string ageInput = Console.ReadLine();
-
-            //int age = Convert.ToInt32(ageInput);
-
-            //if (age > 18)
-            //{
-            //    Console.WriteLine("Adult");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Child");
-            //}
-
-
-
+            
             //Similar to an IF statement but doesn't search each condition, jumps to correct value.
             //The default section is where it defaults to if the correct.
             int productType = 7;
